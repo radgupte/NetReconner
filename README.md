@@ -2,6 +2,9 @@
 A Network Intrusion Detection System is used to monitor networks for attacks or intrusions and report these intrusions to a network administrator of the organization.
 The NetReconner continuously monitors the incoming and outgoing traffic on the network using a bash script with minimal downtime. This system is designed to analyze network traffic and identify potential intrusion attempts by matching packet signatures using Regular Expressions against a pre-defined database of signatures. This README file provides an overview of the system, installation instructions, configuration details, and usage guidelines.
 
+## Published paper
+https://www.irjet.net/archives/V7/i4/IRJET-V7I432.pdf
+
 ## Features
 * Packet signature matching using Regular Expressions
 * Existing signature database for detecting known intrusion patterns
